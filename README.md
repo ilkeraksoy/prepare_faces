@@ -1,20 +1,7 @@
 # prepare_faces
 Prepare Face Photos for Face Recognition
 
-|kaynak_dizin
-|-- Messi
-|   |-- Messi1.jpg
-|   |-- ...
-|   |-- Messi10.jpg
-|-- Robben
-|   |-- Robben1.jpg
-|   |-- ...
-|   |-- Robben11.jpg
-...
-|-- Ibrahimovic
-|   |-- Ibrahimovic1.jpg
-|   |-- ...
-|   |-- Ibrahimovic2.jpg
+![kaynak_dizin](http://images.imagebam.com/81/02/0f/bfcc08623357523.png)
 
 Örnek kullanım şekli:
 ./Prepare.exe /kaynak_dizin /hedef_bos_dizin
